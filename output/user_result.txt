@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-01 18:24:31,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-03-02 06:14:06,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -20,18 +20,17 @@ CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
 CCTV-15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
 CCTV-16,https://yunmei.tv/main/cctv-16.m3u8
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
-CETV1,http://139.129.231.228:50060/rtp/239.21.2.7:5002
-CETV2,http://139.129.231.228:50060/rtp/239.21.2.8:5002
+CETV1,http://120.55.49.231:3095/rtp/233.50.201.75:5140
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 💰央视付费频道,#genre#
-央视台球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5497&tk=a0c4f6cfaba3
-风云足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4934&tk=a0c4f6cfaba3
-世界地理,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6196&tk=a0c4f6cfaba3
+央视台球,http://183.11.239.36:808/hls/73/index.m3u8
+风云足球,http://183.11.239.36:808/hls/133/index.m3u8
+世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
-浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
+浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
 北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
 湖北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226477
@@ -71,80 +70,70 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
-东森电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9901&tk=e640d0a1bf70
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 
 🎬电影频道,#genre#
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
-淘电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7404&tk=777be9e2ccb2
-黑莓电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6356&tk=abed47f08529
+黑莓电影,http://home.wwang.pw:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
-经典电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1337&tk=a0c4f6cfaba3
-IPTV经典电影,http://139.129.231.228:50060/rtp/239.21.1.124:5002
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
-东森电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9901&tk=e640d0a1bf70
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎥咪咕直播,#genre#
+咪咕直播1,http://home.wwang.pw:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
 
 🏀体育频道,#genre#
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p⁭
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-五星体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4759&tk=7d4ad8f156e3
-体育赛事,http://139.129.231.228:50060/rtp/239.21.2.44:5002
+纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
+五星体育,http://home.wwang.pw:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 劲爆体育,http://tvbox6.icu/tv/migu.php?id=jbty
-超级体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0078&tk=a0c4f6cfaba3
-精品体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5739&tk=23a9aca1f79f
+爱体育,http://146.235.213.45:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
+超级体育,http://home.wwang.pw:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
+精品体育,http://146.235.213.45:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
-山东体育,http://139.129.231.228:50060/rtp/239.21.1.141:5002
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
 睛彩篮球,http://tvbox6.icu/tv/zb/zjctcc.php?id=344
 睛彩羽毛球,http://tvbox6.icu/tv/zb/zjctcc.php?id=346
-风云足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4934&tk=a0c4f6cfaba3
-足球频道,http://139.129.231.228:50060/rtp/239.21.1.162:5002
+睛彩广场舞,http://home.wwang.pw:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
+风云足球,http://183.11.239.36:808/hls/133/index.m3u8
 魅力足球,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
-天元围棋,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8487&tk=a0c4f6cfaba3
 快乐垂钓,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206
 
 🪁动画频道,#genre#
 动漫秀场,http://tvbox6.icu/tv/gdmzyd.php?id=83
-青春动漫,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8899&tk=bd38c03a3ce1
-宝宝动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8216&tk=bd38c03a3ce1
+爱动漫,http://146.235.213.45:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
 优漫卡通,http://tvbox6.icu/tv/migu.php?id=ymkt
 金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287
-黑莓动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2664&tk=f6cc1e0a0e1a
+黑莓动画,http://home.wwang.pw:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
+炫动卡通,http://1b6467f415.iok.la:9931/tsfile/live/1056_1.m3u8
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-七龙珠,http://1.94.31.214:35455/huya/11601966
-海绵宝宝,http://1.94.31.214:35455/huya/11352919
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+海绵宝宝,http://zzy789.xyz/douyu1.php?id=3949681
 斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105
-蜡笔小新,http://1.94.31.214:35455/huya/11352970
 
 🎮游戏频道,#genre#
 游戏风云,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
-海看电竞,http://139.129.231.228:50060/rtp/239.21.1.135:5002
-电竞天堂,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8479&tk=bd38c03a3ce1
 
 🎵音乐频道,#genre#
 CCTV-15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+音乐调频广播,http://120.55.49.231:3095/rtp/233.50.201.82:5140
 
 🏛经典剧场,#genre#
-笑傲江湖,http://1.94.31.214:35455/huya/26355790
 天龙八部,https://live.metshop.top/yy/1382736855
 鹿鼎记,https://lunbo.freetv.top/yy/1354658049
 仙剑奇侠传,https://live.metshop.top/yy/1382749903
-西游记,http://1.94.31.214:35455/huya/26355861
 三国演义,https://live.metshop.top/yy/1354936241
 新白娘子传奇,https://lunbo.freetv.top/yy/1354930969
 封神榜,https://live.metshop.top/yy/1353426319
