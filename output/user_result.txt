@@ -1,23 +1,23 @@
 🕘️更新时间,#genre#
-2025-05-11 15:24:56,http://1.197.127.166:10443/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+2025-05-11 15:42:58,http://119.32.12.17:2901/udp/224.1.100.90:11111
 
 📺央视频道,#genre#
-CCTV-1,http://1.197.127.166:10443/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
-CCTV-3,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
-CCTV-4,http://itv.iptv1688.top:2016/itv.php?id=CCTV4
-CCTV-5,http://itv.iptv1688.top:2016/itv.php?id=CCTV5
-CCTV-5+,http://itv.iptv1688.top:2016/itv.php?id=CCTV5p
+CCTV-1,http://119.32.12.17:2901/udp/224.1.100.90:11111
+CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
+CCTV-3,http://qjrhc.jydjd.top:2911/udp/224.1.100.64:11111
+CCTV-4,http://119.32.12.17:2901/udp/224.1.100.104:11111
+CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
+CCTV-5+,http://1.197.127.166:10443/tsfile/live/1121_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://119.32.12.17:2901/udp/224.1.100.84:11111
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
-CCTV-8,http://itv.iptv1688.top:2016/itv.php?id=CCTV8
-CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
-CCTV-10,http://itv.iptv1688.top:2016/itv.php?id=CCTV10
-CCTV-11,http://itv.iptv1688.top:2016/itv.php?id=CCTV11
-CCTV-12,http://222.134.245.16:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://itv.iptv1688.top:2016/itv.php?id=CCTV13
-CCTV-14,http://119.32.12.17:2901/udp/224.1.100.80:11111
-CCTV-15,http://itv.iptv1688.top:2016/itv.php?id=CCTV15
+CCTV-8,http://qjrhc.jydjd.top:2911/udp/224.1.100.86:11111
+CCTV-9,http://qjrhc.jydjd.top:2911/udp/224.1.100.29:11111
+CCTV-10,http://qjrhc.jydjd.top:2911/udp/224.1.100.76:11111
+CCTV-11,http://qjrhc.jydjd.top:2911/udp/224.1.100.44:11111
+CCTV-12,http://113.109.250.108:9999/udp/239.77.1.109:5146
+CCTV-13,http://qjrhc.jydjd.top:2911/udp/224.1.100.69:11111
+CCTV-14,http://qjrhc.jydjd.top:2911/udp/224.1.100.80:11111
+CCTV-15,http://113.109.250.108:9999/udp/239.77.1.239:5146
 CCTV-16,http://itv.iptv1688.top:2016/itv.php?id=CCTV16
 CCTV-17,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
 
@@ -27,46 +27,45 @@ CCTV-17,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
 世界地理,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 
 📡卫视频道,#genre#
-广东卫视,http://113.195.8.194:9901/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://itv.iptv1688.top:2016/itv.php?id=广东卫视
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://119.32.12.17:2901/udp/224.1.100.52:11111
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 北京卫视,http://itv.iptv1688.top:2016/itv.php?id=北京卫视
-湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
+湖北卫视,http://itv.iptv1688.top:2016/itv.php?id=湖北卫视
 黑龙江卫视,http://itv.iptv1688.top:2016/itv.php?id=黑龙江卫视
 安徽卫视,http://119.32.12.17:2901/udp/224.1.100.66:11111
 重庆卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.102:11111
-东方卫视,http://222.134.245.16:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.56:11111
-甘肃卫视,http://222.134.245.16:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://itv.iptv1688.top:2016/itv.php?id=东方卫视
+东南卫视,http://wouu.net:9977/udp/239.93.0.42:5140
+甘肃卫视,http://wouu.net:9977/udp/239.93.0.81:5140
 广西卫视,http://119.32.12.17:2901/udp/224.1.100.110:11111
-贵州卫视,http://1.197.127.166:10443/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://119.32.12.17:2901/udp/224.1.100.58:11111
 海南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.15:11111
 河北卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.19:11111
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.60:11111
 江苏卫视,http://119.32.12.17:2901/udp/224.1.100.46:11111
 江西卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.54:11111
-辽宁卫视,http://222.134.245.16:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://119.32.12.17:2901/udp/224.1.100.92:11111
 内蒙古卫视,http://nas.hssvm.com:8888/udp/225.1.1.32:5002
 宁夏卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226454/index.m3u8
 青海卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225628/index.m3u8
-山东卫视,http://119.32.12.17:2901/udp/224.1.100.50:11111
+山东卫视,http://itv.iptv1688.top:2016/itv.php?id=山东卫视
 山西卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226392/index.m3u8
-陕西卫视,http://222.134.245.16:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8
 四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
 三沙卫视,http://www.jiaocj.xyz:4000/udp/239.49.0.167:8000
 天津卫视,http://itv.iptv1688.top:2016/itv.php?id=天津卫视
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0
 新疆卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8
-云南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.21:11111
+云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 🌊港·澳·台,#genre#
-翡翠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.121:11111
-明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
+翡翠台,http://61.163.58.168:2005/play/forward/5?tvid=MytvTvbJade&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5rex5Zyz5biCIiwiaXAiOiI1OS4zNi4xNjYuMjE1IiwidHZpZCI6IjI3OTY4NTIzIiwiZWNvbm9taXplIjoi5bm_5LicIiwiZXhwIjoxNzQ2MTAyMDU0LCJuYmYiOjE3NDYwODQwNTQsImlhdCI6MTc0NjA4NDA1NH0.S3NFp_Pg4T14ExLY5n4
 凤凰中文,http://61.163.58.168:2005/play/forward/5?tvid=MytvPhoenixChinese&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5rex5Zyz5biCIiwiaXAiOiI1OS4zNi4xNjYuMjE1IiwidHZpZCI6IjI3OTY4NTIzIiwiZWNvbm9taXplIjoi5bm_5LicIiwiZXhwIjoxNzQ2MTAyMDU0LCJuYmYiOjE3NDYwODQwNTQsImlhdCI6MTc0NjA4NDA1NH0.S3NFp_Pg4T
-凤凰资讯,http://61.163.58.168:2005/play/forward/5?tvid=MytvPhoenixInfo&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5rex5Zyz5biCIiwiaXAiOiI1OS4zNi4xNjYuMjE1IiwidHZpZCI6IjI3OTY4NTIzIiwiZWNvbm9taXplIjoi5bm_5LicIiwiZXhwIjoxNzQ2MTAyMDU0LCJuYmYiOjE3NDYwODQwNTQsImlhdCI6MTc0NjA4NDA1NH0.S3NFp_Pg4T14E
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰香港,http://61.163.58.168:2005/play/forward/5?tvid=MytvPhoenixHK&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5rex5Zyz5biCIiwiaXAiOiI1OS4zNi4xNjYuMjE1IiwidHZpZCI6IjI3OTY4NTIzIiwiZWNvbm9taXplIjoi5bm_5LicIiwiZXhwIjoxNzQ2MTAyMDU0LCJuYmYiOjE3NDYwODQwNTQsImlhdCI6MTc0NjA4NDA1NH0.S3NFp_Pg4T14ExL
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 三立台湾,http://61.163.58.168:2005/play/forward/5?tvid=settaiwanwj&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5rex5Zyz5biCIiwiaXAiOiI1OS4zNi4xNjYuMjE1IiwidHZpZCI6IjI3OTY4NTIzIiwiZWNvbm9taXplIjoi5bm_5LicIiwiZXhwIjoxNzQ2MTAyMDU0LCJuYmYiOjE3NDYwODQwNTQsImlhdCI6MTc0NjA4NDA1NH0.S3NFp_Pg4T14ExLY5
@@ -74,8 +73,8 @@ CCTV-17,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
 东森超视,http://61.163.58.168:2005/play/forward/5?tvid=ettvsuper&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5rex5Zyz5biCIiwiaXAiOiI1OS4zNi4xNjYuMjE1IiwidHZpZCI6IjI3OTY4NTIzIiwiZWNvbm9taXplIjoi5bm_5LicIiwiZXhwIjoxNzQ2MTAyMDU0LCJuYmYiOjE3NDYwODQwNTQsImlhdCI6MTc0NjA4NDA1NH0.S3NFp_Pg4T14ExLY5n4E
 
 🎬电影频道,#genre#
-CHC家庭影院,http://61.163.58.168:2005/play/forward/5?tvid=chcfamily&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5LyR5pav6aG_IiwiaXAiOiIxMDguMTI2LjEzOS4yMiIsInR2aWQiOiIyNjU5NjIzMCIsImVjb25vbWl6ZSI6IuW-t-WFi-iQqOaWryIsImV4cCI6MTc0NTkyMzk3NiwibmJmIjoxNzQ1OTA1OTc2LCJpYXQiOjE3NDU5MDU5NzZ9.gPoSyGVh
-CHC动作电影,http://61.163.58.168:2005/play/forward/5?tvid=chcaction&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5LyR5pav6aG_IiwiaXAiOiIxMDguMTI2LjEzOS4yMiIsInR2aWQiOiIyNjU5NjIzMCIsImVjb25vbWl6ZSI6IuW-t-WFi-iQqOaWryIsImV4cCI6MTc0NTkyMzk3NiwibmJmIjoxNzQ1OTA1OTc2LCJpYXQiOjE3NDU5MDU5NzZ9.gPoSyGVh
+CHC家庭影院,http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111
+CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.131:11111
 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
@@ -125,14 +124,13 @@ CHC动作电影,http://61.163.58.168:2005/play/forward/5?tvid=chcaction&token=ey
 🏀体育频道,#genre#
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
+广东体育,http://119.32.12.17:2901/udp/224.1.100.34:11111
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8
-劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
+劲爆体育,http://119.32.12.17:2901/udp/224.1.100.129:11111
 爱体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8
 超级体育,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 精品体育,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
-广州竞赛,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouJingSai
-福建体育,http://110.81.206.138:49231/tsfile/live/23029_1.m3u8?key=txiptv&playlive=1&authid=0
+广州竞赛,http://119.32.12.17:2901/udp/224.1.100.105:11111
 山东体育,http://222.134.245.16:9901/tsfile/live/1006_1.m3u8
 睛彩篮球,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
@@ -140,15 +138,15 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140
 
 🪁动画频道,#genre#
-动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
+动漫秀场,http://nas.hssvm.com:8888/udp/225.1.1.134:5002
 青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140
 爱动漫,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8
 宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-优漫卡通,http://112.122.33.119:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://112.122.33.79:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://qjrhc.jydjd.top:2911/udp/224.1.100.113:11111
 黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 经典动漫,http://61.133.118.228:5001/yy/24180320
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
