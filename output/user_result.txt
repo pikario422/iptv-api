@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-01 18:18:51,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
+2025-06-02 06:17:20,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
 
 📺央视频道,#genre#
 CCTV-1,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
@@ -9,7 +9,7 @@ CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
 CCTV-5+,http://119.32.12.17:2901/udp/224.1.100.25:11111
 CCTV-6,http://qjrhc.jydjd.top:2911/udp/224.1.100.84:11111
-CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
+CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
 CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
 CCTV-9,http://qjrhc.jydjd.top:2911/udp/224.1.100.29:11111
 CCTV-10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教
@@ -77,8 +77,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
