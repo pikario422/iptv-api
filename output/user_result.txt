@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2025-06-03 18:20:12,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
+2025-06-04 06:19:13,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
 
 📺央视频道,#genre#
 CCTV-1,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
+CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 CCTV-6,http://qjrhc.jydjd.top:2911/udp/224.1.100.84:11111
 CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
